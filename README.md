@@ -5,8 +5,8 @@
 
 ## <b>installation</b>
 
-- CLONE FULL OK IDZ
-```Python
+-------- CLONE FULL OK IDZ --------
+
 
 - `pkg update`
 - `pkg upgrade`

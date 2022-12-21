@@ -1,7 +1,6 @@
 ## TOOL UPDATE RUNNING - WAIT FOR.......
 
-```php
-```python
+```php 
 
 • apt install python
 

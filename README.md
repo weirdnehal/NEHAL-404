@@ -1,11 +1,11 @@
-## FACEBOOK CLONING TOOL
+
 
 <h2 align="center">  FACEBOOK CLONING TOOL </h2>
 
 
 ## <b>installation</b>
 
-- _CLONE FULL OK IDZ_
+- CLONE FULL OK IDZ
 
 
 - `pkg update`

@@ -1,31 +1,35 @@
-## TOOL UPDATE RUNNING - WAIT FOR.......
 
-```php 
 
-• apt install python
+<h2 align="center">  FACEBOOK CLONING TOOL </h2>
 
-• pkg update
 
-• pkg upgrade
+## <b>installation</b>
 
-• pkg install python
+- _CLONE FULL OK IDZ_
 
-• pip install requests
 
-• pip install mechanize
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `pip install mechanize`
+- `pip install bs4`
+- `pip install rich`
+- `rm -rf NEHAL-404`
+- `git clone --depth=1 https://github.com/weirdnehal/NEHAL-404.git`
+- `cd NEHAL-404`
+- `chmod +x *`
+- `python NEHAL-404`
 
-• pip install bs4
 
-• pkg install git
 
-• pip install rich
 
-• rm -rf NEHAL-404 
 
-• git clone https://github.com/weirdnehal/NEHAL-404.git
 
-• cd NEHAL-404
 
-• chmod +x *
 
-• python NEHAL-404
+
+
+
+

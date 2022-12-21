@@ -26,7 +26,6 @@
 
 # NEHAL-404
 FREE AND PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-weirdnehal-dimgray?style=flat-square&logo=github)](https://github.com/weirdnehal)<br> [![Facebook](https://img.shields.io/badge/Facebook-Nehal Ahmed-blue?style=flat-square&logo=facebook)](https://www.facebook.com/nehal.ahmed6)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Clay-404-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801613016943)
 
 
 
